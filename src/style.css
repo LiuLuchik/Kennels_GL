@@ -342,8 +342,11 @@ label[for="legacy"] {
   }
 
   .openhours {
+    display: block;
+    width: 70%;
     margin-top: 15px;
-    margin-left: 43px;
+    margin-right: auto;
+    margin-left: auto;
   }
 
   ol {
