@@ -341,6 +341,17 @@ label[for="legacy"] {
     font-size: 50px;
   }
 
+  .aboutpic {
+    margin-top: 30px;
+    text-align: center;
+    height: 280px;
+    width: 350px;
+    border-radius: 2%;
+  }
+  #imageresponsive {
+    text-align: center;
+  }
+
   .openhours {
     display: block;
     width: 70%;
